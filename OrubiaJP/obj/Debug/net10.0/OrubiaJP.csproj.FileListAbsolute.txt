@@ -1,0 +1,4 @@
+C:\OrubiaJP\obj\Debug\net10.0\OrubiaJP.GeneratedMSBuildEditorConfig.editorconfig
+C:\OrubiaJP\obj\Debug\net10.0\OrubiaJP.AssemblyInfoInputs.cache
+C:\OrubiaJP\obj\Debug\net10.0\OrubiaJP.AssemblyInfo.cs
+C:\OrubiaJP\obj\Debug\net10.0\OrubiaJP.csproj.CoreCompileInputs.cache
